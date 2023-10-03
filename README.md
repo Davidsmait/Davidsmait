@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm David San Luis</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
-
-- 🌱 I’m currently learning **Scala**
-
-- 👨‍💻 All of my projects are available at [https://davidsanluisaguirre.netlify.app](https://davidsanluisaguirre.netlify.app)
-
 - 📫 How to reach me **david_sanluis@outlook.com**
-
 
 <p align="left">
 </p>
