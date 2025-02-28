@@ -1,5 +1,9 @@
-- 📫 How to reach me [**david_sanluis@outlook.com**](mailto:david_sanluis@outlook.com) 
-- 📝 Lee más en mi blog [**davidsanluisaguirre.com**](https://davidsanluisaguirre.com)
+## 📬 Contacto y Más Sobre Mí  
+
+- 📧 **Email:** [david_sanluis@outlook.com](mailto:david_sanluis@outlook.com)  
+- 🌍 **Mi sitio web:** [davidsanluisaguirre.com](https://davidsanluisaguirre.com)  
+- 📰 **Últimos artículos:**  
+  [![📰 Suscribirse al RSS](https://img.shields.io/badge/📰-Suscribirse%20al%20RSS-orange)](https://davidsanluisaguirre.com/feed.xml)
 
 <p align="left">
 </p>
