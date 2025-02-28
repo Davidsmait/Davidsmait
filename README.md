@@ -1,5 +1,5 @@
-- 📫 How to reach me **david_sanluis@outlook.com**
-- 🌐  [**blog**](https://davidsanluisaguirre.com)
+- 📫 How to reach me [**david_sanluis@outlook.com**](mailto:david_sanluis@outlook.com) 
+- 📝 Lee más en mi blog [**davidsanluisaguirre.com**](https://davidsanluisaguirre.com)
 
 <p align="left">
 </p>
